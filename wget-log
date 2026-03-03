@@ -1,15 +1,0 @@
---2026-03-03 18:39:24--  https://www.google.com/imgres?q=cricket
-Resolving www.google.com (www.google.com)... 142.250.205.36
-Connecting to www.google.com (www.google.com)|142.250.205.36|:443... connected.
-HTTP request sent, awaiting response... 301 Moved Permanently
-Location: https://www.google.com/imghp [following]
---2026-03-03 18:39:24--  https://www.google.com/imghp
-Reusing existing connection to www.google.com:443.
-HTTP request sent, awaiting response... 200 OK
-Length: unspecified [text/html]
-Saving to: ‘imgres?q=cricket’
-
-imgres?q=cricket                                 [<=>                                                                                          ]       0  --.-KB/s               imgres?q=cricket                                 [ <=>                                                                                         ]  16.54K  --.-KB/s    in 0.03s   
-
-2026-03-03 18:39:25 (553 KB/s) - ‘imgres?q=cricket’ saved [16936]
-
